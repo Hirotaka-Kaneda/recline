@@ -1,0 +1,7 @@
+{
+  // ...existing code...
+  "commands": {
+    "command": "workbench.action.movePanelToPrimarySideBar"
+  }
+  // ...existing code...
+}
